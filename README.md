@@ -16,7 +16,7 @@ The task says the UAV gives you a segmentation image, where black = obstacle, th
 9. Which image has the best score?
 10. Which image has the fastest route?
 
-## Rough Sketch of how to solve the hurdles and ffind the most efficient answer
+## Rough Sketch of how to solve the hurdles and find the most efficient answer
 1. Input image
 2. Run it through OpenCV
 3. Understand pixels
